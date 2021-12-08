@@ -1,1 +1,1 @@
-### eine E-Commerce-Anwendungs-API-Verwaltung mit GraphQL
+### Beispiel-Apps zum Erlernen von GraphQL
