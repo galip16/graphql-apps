@@ -1,1 +1,1 @@
-# graphql-ecommerze
+### eine E-Commerce-Anwendungs-API-Verwaltung mit GraphQL
