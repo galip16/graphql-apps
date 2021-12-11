@@ -1,1 +1,1 @@
-# graphql-ecommerze
+### Beispiel-Apps zum Erlernen von GraphQL
